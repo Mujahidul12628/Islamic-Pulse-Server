@@ -1,0 +1,74 @@
+[
+    {
+        "chef_id": "CHEF001",
+        "chef_name": "Shaikh Abdul Rahman ",
+        "years_of_experience": 27,
+        "num_recipes": 40,
+        "likes": "55M",
+        "picture": "https://i.ibb.co/WV2xYCj/Sudais.jpg",
+        "bio": "Maria Rodriguez is a self-taught chef who grew up in a family of passionate cooks. She has a talent for creating bold and flavorful dishes that are both comforting and exciting. Maria Rodriguez's signature style is influenced by her Mexican heritage, and she loves to experiment with new ingredients and techniques. When she's not cooking, Maria Rodriguez enjoys spending time with her family and practicing yoga."
+    },
+    {
+        "chef_id": "CHEF002",
+        "chef_name": "Maolana Tariq Jamil",
+        "years_of_experience": 21,
+        "num_recipes": 80,
+        "likes": "40M",
+        "picture": "https://i.ibb.co/SmXPMWB/Tariq-Jameel.jpg",
+        "bio": "David Lee is a pastry chef with a passion for all things sweet. He has worked in some of the most prestigious pastry kitchens in the world, and has won numerous awards for his innovative creations. Chef David is known for his attention to detail and his ability to balance flavors and textures in his desserts. In his free time, he enjoys hiking and exploring the outdoors."
+    },
+    {
+        "chef_id": "CHEF003",
+        "chef_name": "Shaikh Rashid Alafasy",
+        "years_of_experience": 15,
+        "num_recipes": 50,
+        "likes": "5M",
+        "picture": "https://i.ibb.co/S6ZVRnk/Rashid.jpg",
+        "bio": "Sara Johnson is a chef and food writer who is passionate about local and sustainable food. She believes that food is a powerful tool for bringing people together, and loves to create dishes that are both delicious and thought-provoking. Sara Johnson is also an advocate for food justice, and works to promote access to healthy, affordable food in underserved communities."
+    },
+    {
+        "chef_id": "CHEF004",
+        "chef_name": "Shaikh Ahmadullah",
+        "years_of_experience": 10,
+        "num_recipes": 30,
+        "likes": "1.25M",
+        "picture": "https://i.ibb.co/zHKycT6/Ahmadullah.jpg ",
+        "bio": "Achraf Hakim is a chef and food writer who is passionate about local and sustainable food. She believes that food is a powerful tool for bringing people together, and loves to create dishes that are both delicious and thought-provoking. Sara Johnson is also an advocate for food justice, and works to promote access to healthy, affordable food in underserved communities."
+    },
+    {
+        "chef_id": "CHEF005",
+        "chef_name": "Mizanur Rahman Azhari",
+        "years_of_experience": 7,
+        "num_recipes": 22,
+        "likes": "850k",
+        "picture": "https://i.ibb.co/2Mpk1bB/Mijanur.jpg",
+        "bio": "Andrew Chen is a chef and restaurateur with a focus on farm-to-table cuisine. He sources his ingredients from local farmers and producers, and believes in showcasing the natural flavors of the ingredients in his dishes. Andrew Chen is also a passionate advocate for sustainable food practices, and works to reduce waste and promote environmentally responsible practices in his restaurants."
+    },
+    {
+        "chef_id": "CHEF006",
+        "chef_name": "Abdul hi Saifullah ",
+        "years_of_experience": 8,
+        "num_recipes": 24,
+        "likes": "525k",
+        "picture": "https://i.ibb.co/2s1VJrQ/Saifullah.jpg ",
+        "bio": "Julia Kim is a vegan chef and cookbook author who is passionate about plant-based cooking. She believes that vegan food can be just as delicious and satisfying as meat-based dishes, and loves to experiment with new ingredients and flavors. Chef Sarah's dishes are creative, colorful, and packed with nutrients. In her free time, she enjoys hiking and practicing yoga."
+    },
+    {
+        "chef_id": "CHEF007",
+        "chef_name": "Muhammad Badruzzaman ",
+        "years_of_experience": 4,
+        "num_recipes": 15,
+        "likes": "239k",
+        "picture": "https://i.ibb.co/rQGjJhj/Badruzzaman.jpg",
+        "bio": "Julia Kim is a vegan chef and cookbook author who is passionate about plant-based cooking. She believes that vegan food can be just as delicious and satisfying as meat-based dishes, and loves to experiment with new ingredients and flavors. Chef Sarah's dishes are creative, colorful, and packed with nutrients. In her free time, she enjoys hiking and practicing yoga."
+    },
+    {
+        "chef_id": "CHEF008",
+        "chef_name": "Sayed Ahmad ",
+        "years_of_experience": 5,
+        "num_recipes": 18,
+        "likes": "342k",
+        "picture": "https://i.ibb.co/Qj19X6Y/AbuSayed.jpg",
+        "bio": "Julia Kim is a vegan chef and cookbook author who is passionate about plant-based cooking. She believes that vegan food can be just as delicious and satisfying as meat-based dishes, and loves to experiment with new ingredients and flavors. Chef Sarah's dishes are creative, colorful, and packed with nutrients. In her free time, she enjoys hiking and practicing yoga."
+    }
+]
